@@ -1,0 +1,43 @@
+<DOC! type html >
+
+<html>
+
+<head>
+<style>label{color:WHITE;}</style>
+
+<title>Login page</title>
+
+</head>
+
+<body>
+
+<center>
+<h1 style="color:RED"> ...TRAIN TICKET BOOKING...</h1>
+<form>
+<marquee> <mark>** 50% OFF ON ALL HOLIDAY BOOKING!! USE CODE ACE50 ** </Marquee> </Mark>
+<body background="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftrain&psig=AOvVaw1I_y5Njd44vSVhgcpMxSKq&ust=1757484822639000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMja5qaDy48DFQAAAAAdAAAAABAE"></body background>
+<label> First Name</label>
+<input type="text" name="First Name" Placeholder="Enter your First Name" required ><br><br>
+<label> Middle Name</label>
+<input type="text" name="Middle Name" placeholder="Enter your Middle Name" required> <br><br>
+<label> Last Name</label>
+<input type="text" name="Last Name" placeholder="Enter your Last Name" required> <br><br>
+<label> Phone Number</label>
+<input type="Age" name="Phone Number" Placeholder="Enter your phone number" required> <br><br>
+<label> Age</label>
+<input type="Tel" name="Age" Placeholder="Enter passenger age" required> <br><br>
+<label> Gender</label>
+<label>
+<input type="radio" name="Gender" value="Male"> Male
+<input type="radio" name="Gender" value="Female"> Female
+<input type="radio" name="Gender" value="Prefer Not To Say"> Prefer Not To Say </label> <br><br>
+<label> Enter your gmail id <label>
+<input type="gmail" name="Gmail" Placeholder="Enter your preferred Gmail ID" required><br><br>
+<Label> AADHAR NUMBER</Label>
+<Input type="Number" Name="Number" Placeholder="Enter Aadhar Number" required> <br><br>
+<input type="BUTTON"Name="SUBMIT" style="color:RED"; Value="SUBMIT"<a href="gst.html"></a> <br>
+</form>
+</center>
+<label>
+</body>
+</html>
