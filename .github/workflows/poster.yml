@@ -1,0 +1,13 @@
+name: Poster Upload
+
+on:
+   push:
+      branches:
+          - main
+          - master
+  jobs:
+     display_success_message:
+      runs-on: ubuntu-latest
+      steps:
+         - name: Display poster uploaded successfully
+           run: echo "poster uploaded successfully!"
